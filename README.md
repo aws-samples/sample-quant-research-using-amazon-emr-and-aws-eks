@@ -45,5 +45,10 @@ therefore following config within the same file needs to be changed as well.
 ```
 That way reads and writes that goes <s3-endpoint> will always use MRAP resource.
 
+# Security
 
+See [CONTRIBUTING](./CONTRIBUTING.md#security-issue-notifications) for more information.
 
+# License
+
+This library is licensed under the MIT-0 License. See the [LICENSE](./LICENSE) file.
